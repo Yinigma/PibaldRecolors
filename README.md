@@ -16,13 +16,13 @@ Despite it being designed for use a work-in-progress rendering program, it could
 ## Screenshots
 
 Example basis palette for a character model:
-![basis](/screenshots/basis_palette.PNG)
+![basis](/screenshots/basis_palette.png)
 
 A palette for use in game: 
-![rhodope](/screenshots/default.PNG)
+![rhodope](/screenshots/default.png)
 
 Another palette that could be used to reference a really cool goat character or something: 
-![absa](/screenshots/hire_me_daniel.PNG)
+![absa](/screenshots/hire_me_daniel.png)
 
 
 ## Issues
